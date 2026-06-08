@@ -1,6 +1,5 @@
-tributo
 Projeto Desenvolve - Bom Despacho
-
+Tributo
 TOCA RAUL!
 Sobre o Projeto
 TOCA RAUL! é uma página web desenvolvida em HTML como tributo ao cantor, compositor e produtor musical Raul Seixas, um dos maiores ícones da música brasileira e conhecido como o Pai do Rock Brasileiro.
@@ -60,9 +59,8 @@ Uso de elementos semânticos como:
  Utilização de:
   * Tabelas
   * Listas ordenadas e não ordenadas
-  * Links externos
+  * Link externo
   * Imagens
-  * Vídeo incorporado
   * Formatações de texto com negrito e itálico
 
 Sobre Raul Seixas
@@ -83,5 +81,3 @@ Professora da Educação Básica, licenciada em Pedagogia e graduada em Análise
 
 Licença
 Projeto desenvolvido para fins educacionais e acadêmicos.
-
-Esse README ficará muito adequado para um repositório acadêmico no GitHub e demonstra organização e documentação do projeto.
